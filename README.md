@@ -2,8 +2,8 @@
 
 
 # UML Diagrams
-[Class Diagram](./UML_diagram/class_diagram)
-[Sequence Diagram](./UML_diagram/sequence_diagram)
+1. [Class Diagram](./UML_diagram/class_diagram)
+2. [Sequence Diagram](./UML_diagram/sequence_diagram)
 
 
 A simple social media app using node.js and express framework with methods like register, login, reset password, and logout.
