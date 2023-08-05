@@ -1,2 +1,7 @@
 # Social_Media_App
-Backend of a simple social media app where users can Signup, Login, and other various features using node.js
+
+
+# UML Diagrams
+[Sequence Diagram]./UML Diagram/Social Media App Sequence UML
+
+
